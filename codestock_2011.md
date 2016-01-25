@@ -10,7 +10,7 @@ Michael Brown
 Steve Brownell
 Arcane Code
 Shawn
-@kewlniss
+Chad Carter
 Matt Casto
 Jim Christopher
 Joel Cochran
@@ -19,7 +19,7 @@ Tim Corbett
 Tim Costello
 Michael Crump
 Michael Eaton
-jfarrell
+Jason Farrell
 Josef Finsel
 Chris Gardner
 Jason Gaylord
@@ -54,7 +54,7 @@ Alex Papadimoulis
 johnvpetersen
 Charles Petzold
 Brian H. Prince
-ChrisRauber
+Chris Rauber
 Rik Robinson
 David Smith
 tedtheo
